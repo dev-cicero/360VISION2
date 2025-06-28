@@ -12,7 +12,7 @@ nav ul { list-style: none; display: flex; gap: 1.5rem; }
 nav a { color: #fff; text-decoration: none; font-weight: bold; transition: 0.3s; }
 nav a:hover { color: #00bfff; }
 .hero {
-  background: url('https://github.com/dev-cicero/360VISION2/blob/main/ChatGPT%20Image%2029_06_2025%2C%2000_16_20.png') no-repeat center/cover;
+  background: url('https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1600&q=80') no-repeat center/cover;
   height: 100vh;
   display: flex; flex-direction: column; justify-content: center; align-items: center;
   color: #fff; text-align: center; padding: 2rem;
